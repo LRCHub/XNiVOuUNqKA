@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "初恋のひと。",
+  "base_artist": "高嶺のなでしこ",
+  "createdAt": "2025-12-12T19:35:46.533653Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋のひと。",
+      "artist": "高嶺のなでしこ",
+      "has_synced": false,
+      "path": "select/pl_01_初恋のひと。_高嶺のなでしこ.txt"
+    }
+  ]
+}
